@@ -74,37 +74,51 @@ Recurring Revenue
 Comparing OpenAI to its competitors, they are doing quite well with a recent revenue of over $1 billion. OpenAI is sitting among giants like Microsoft, Google, Nvidia, 
 and a lesser known company Anthropic. These companies have revenue in the billions, so OpenAI is not far behind.
 
+## Recommendations
+* If you were to advise the company, what products or services would you suggest they offer? (This could be something that a competitor offers, or use your imagination!)
+I would advise openAI that the next step us to produce an AI software engineer (SWE) like DEVIN.
+* Why do you think that offering this product or service would benefit the company?
+This would be beneficial as it would automate some if not all tasks a SWE completes, which would reduce time commitment say on code reviews or general tasks such as CI/CD of applications. Allowing the human SWEs to focus on other vital tasks like solutioning.
+* What technologies would this additional product or service utilize?
+We would need to utilize machine learning frameworks such as TenserFlow or PyTorch. 
+Along with a large data set to train the models we use, which may include terminal commands, programmer files, etc.
+
+* Why are these technologies appropriate for your solution?
+These technoligies are appropriate for this solution in order to properly train and develop an AI SWE.
 ## Reference Links:
 
-# Artificial Intelligence AI: OpenAI Company -
+### Artificial Intelligence AI: OpenAI Company -
 https://libguides.esf.edu/c.php?g=1309319&p=9625954#:~:text=The%20organization%20was%20founded%20in,collectively%20pledged%20US%241%20billion.
 
-# Planning for AGI and beyond -
+### Planning for AGI and beyond -
 https://openai.com/blog/planning-for-agi-and-beyond
 
-# Introducing OpenAI -
+### Introducing OpenAI -
 https://openai.com/blog/introducing-openai
 
-# Companies using OpenAI -
+### Companies using OpenAI -
 https://enlyft.com/tech/products/openai
 
-# OpenAI clocked $1.6 billion worth revenue in 2023 -
+### OpenAI clocked $1.6 billion worth revenue in 2023 -
 https://www.financialexpress.com/business/digital-transformation-openai-clocked-1-6-billion-worth-revenue-in-2023-3355681/
 
-# The Strategic Benefits of OpenAI -
+### The Strategic Benefits of OpenAI -
 https://www.financialexpress.com/business/digital-transformation-openai-clocked-1-6-billion-worth-revenue-in-2023-3355681/
 
-# Stackshare -
+### Stackshare -
 https://stackshare.io/openai/openai-com
 
-# 8 AI Trends To Look Out For in 2024 - 
+### 8 AI Trends To Look Out For in 2024 - 
 https://www.synthesia.io/post/ai-trends#:~:text=2.-,Multimodal%20AI%20models,way%20for%20more%20comprehensive%20experiences.
 
-# OpenAI's alternatives and competitors -
+### OpenAI's alternatives and competitors -
 https://www.cbinsights.com/company/openai/alternatives-competitors
 
-# 27 business success metrics you should be tracking
+### 27 business success metrics you should be tracking
 https://asana.com/resources/success-metrics-examples
 
-# 10 Companies With Largest AI Revenues: Success Cases from OpenAI, Anthropic & More
+### 10 Companies With Largest AI Revenues: Success Cases from OpenAI, Anthropic & More
 https://www.techopedia.com/top-10-ai-revenue-leaders#:~:text=Microsoft%20is%20projected%20to%20generate,partly%20due%20to%20AI%20advancements.
+
+### Introducing Devin
+https://www.cognition-labs.com/introducing-devin
