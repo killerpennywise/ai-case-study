@@ -17,10 +17,12 @@ and YC Research which cumalitively adds up to roughly $1 billion. [(Brockman and
 **OpenAI's** mission statement or specific problem that they are tackling is to ensure 
 that artificial general intelligence (AGI) benefits all of humanity. [(Altman, "Planning for AGI and beyond")](https://openai.com/blog/planning-for-agi-and-beyond). Their general consumer/customer is comprised mostly 
 at the Enterprise level across multiple industries, which can range from the 
-Information Technology and Services sector to the Telecommunications sector. [(Enlyft,"Companies using OpenAI")](https://enlyft.com/tech/products/openai). However, FE Digital Currency states in the 2023 **OpenAI 
+Information Technology and Services sector to the Telecommunications sector. [(Enlyft,"Companies using OpenAI")](https://enlyft.com/tech/products/openai). However, FE Digital Currency states in the 2023 **OpenAI** 
 surpassed the one billion dollar mark reaching roughly $1.6 billion in revenue.[(FE Digital Currency,"OpenAI clocked $1.6 billion worth revenue in 2023")](https://www.financialexpress.com/business/digital-transformation-openai-clocked-1-6-billion-worth-revenue-in-2023-3355681/). This may be 
 due to the competitive advantage that **OpenAI** offers with its products (ChatGPT 3, 
-DALL-E, and more). >According to Vedraj,**OpenAI** provides a competitive advantage by enabling quicker decision-making through data analysis, rapid content generation, and efficient customer service. This ability allows businesses to respond to market changes and customer demands swiftly. [(Vedraj,"Leveraging OpenAI In Business: Strategic Benefits And Practical Uses")](https://www.valuecoders.com/blog/ai-ml/openai-in-business-benefits-and-uses/). 
+DALL-E, and more). According to Vedraj,
+>**OpenAI** provides a competitive advantage by enabling quicker decision-making through data analysis, rapid content generation, and efficient customer service. This ability allows businesses to respond to market changes and customer demands swiftly. 
+[(Vedraj,"Leveraging OpenAI In Business: Strategic Benefits And Practical Uses")](https://www.valuecoders.com/blog/ai-ml/openai-in-business-benefits-and-uses/). 
 Which makes the average person wonder, 
 "what kind of technology can make such an advantage possible?" Simply, access to 
 application and data services like Cloudfare, Amazon Web Services, Amazon 
