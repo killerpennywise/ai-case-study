@@ -2,58 +2,31 @@
 
 ## Overview and Origin
 
-* Name of company
-OpenAI
-
-* When was the company incorporated?
-Founded in *San Francisco in 2015
-
-* Who are the founders of the company?
-Founded by Sam Altman, Reid Hoffman, Jessica Livingston, Elon Musk, Ilya Stutskever, Peter Thiel and others who collectively pledged 1 billion dollars
-Elon Musk resigned from the board in 2018.
-
-* How did the idea for the company (or project) come about?
-"OpenAI was created in part because of its founders' existential concerns about the potential for catastrophe resulting from carelessness and misuse of general-purpose AI."
-
-* How is the company funded? How much funding have they received?
-OpenAI is a non-profit organization that subsists mainly off of donations, to-date OpenAI has recieved funding from multiple sources including Sam, Greg, Elon, Reid Hoffman, Jessica Livingston, Peter Thiel, Amazon Web Services (AWS), Infosys, and YC Research which cumalitively adds up $1 billion.
+OpenAI was founded in San Francisco, California in 2015 by a group of scientists and professionals. Which were comprised of Sam Altman, Reid Hoffman, Jessica Livingston, Elon Musk, Ilya Stutskever, Peter Thiel and others. (Verostek,"Artificial Intelligence AI: OpenAI Company"). The idea for OpenAI came about due to the "founders' existential concerns about the potential for catastrophe resulting from carelessness and misuse of general-purpose AI." (Hashemi-Pour,"OpenAI").OpenAI is a non-profit organization that subsists mainly off of donations, to-date OpenAI has received funding from multiple sources including but not limited to Sam, Greg, Elon, Reid, Hoffman, Jessica Livingston, Peter Theil, Amazon Web Services (AWS), Infosys, and YC Research which cumalitively adds up to roughly $1 billion. (Brockman and Sutskever, "Introducing OpenAI").
 
 ## Business Activities
 
-* What specific problem is the company or project trying to solve?
-To ensure that artificial general intelligence benefits all of humanity.
-
-* Who is the company's intended customer? Is there any information about the market size of this set of customers?
-OpenAI's main customer base seems to be on the enterprise level in a variety of industries ranging from Information Technology and Services all the way to Telecommunications. According to Enlyft, OpenAI consists of 0.48% market share. However, FE Digital Currency states in the 2023 OpenAI surpassed the one billion dollar mark reaching roughly $1.6 billion in revenue.
-
-* What solution does this company offer that their competitors do not or cannot offer? (What is the unfair advantage they utilize?)
- "OpenAI provides a competitive advantage by enabling quicker decision-making through data analysis, rapid content generation, and efficient customer service. This ability allows businesses to respond to market changes and customer demands swiftly." --Vedraj (ValueCoders)
-* Which technologies are they currently using, and how are they implementing them? (This may take a little bit of sleuthing&mdash;you may want to search the company’s engineering blog or use sites like Stackshare to find this information.)
-According to Stackshare, OpenAI utilizes multiple technologies in their tech stack.
-Including Cloudfare, Amazon Web Services, Amazon Cloudfront, and Prism for application and data usecases. Additionally, OpenAI uses Google Analytics and Segment for utility. While taking advantage of Gmail and Ghost for business related usage.
+OpenAI's mission statement or specific problem that they are tackling is to ensure that artificial general intelligence (AGI) benefits all of humanity. (Altman, "Planning for AGI and beyond"). Their general consumer/customer is comprised mostly at the Enterprise level across multiple industries, which can range from the Information Technology and Services sector to the Telecommunications sector. (Enlyft,"Companies using OpenAI"). However, FE Digital Currency states in the 2023 OpenAI surpassed the one billion dollar mark reaching roughly $1.6 billion in revenue. (FE Digital Currency,"OpenAI clocked $1.6 billion worth revenue in 2023"). This may be due to the competitive advantage that OpenAI offers with its products (ChatGPT 3, DALL-E, and more). According to Vedraj, "OpenAI provides a competitive advantage by enabling quicker decision-making through data analysis, rapid content generation, and efficient customer service. This ability allows businesses to respond to market changes and customer demands swiftly." (Vedraj,"Leveraging OpenAI In Business: Strategic Benefits And Practical Uses"). Which makes the average person wonder, "what kind of technology can make such an advantage possible?" Simply, access to application and data services like Cloudfare, Amazon Web Services, Amazon Cloudfront, and Prism lay the groundwork for such an accomplishment. (Stackshare,"Openai.com").
 
 
 ## Landscape
 
-* What field is the company in?
-OpenAI is an AI research and deployment company.
+The field most associated with OpenAI is AI research and deployment. A field that has seen major trends and innovations over the last five to ten years, such as:
+* Generative AI - Which leverages machine learning to create original output based on patters from existing training data.
+* Multimodal AI models - Models that can "translate" text to images, images to videos, text to audio, and so forth.
+* Democratization - Meaning to make something available and accessible to everyone. 
+(Lukan,"8 AI Trends To Look Out For in 2024").
+Being seen as a huge success story in the startup world, OpenAI is sure to have a few competitors to look out for. Some of which are comprised of the following: 
+* Anthropic
+* Mistral AI
+* ElevenLabs
+* Bria
+* Sakana AI
+* AI Redefined
+* AI21 Labs
+* Aleph Alpha
+* 01.AI
 
-* What have been the major trends and innovations of this field over the last 5&ndash;10 years?
-Some major trends seen in AI research and deployment are:
-Generative AI - leverages machine learning to create an original output, based on patterns from training data.
-Multimodal AI models - These models can "translate" text to images, images to videos, text to audio, and so on.
-Democratization - making something available and accessible to everyone.
-* What are the other major companies in this field?
-While OpenAI is considered one of the largest and most successful AI research and deployment companies. There are some alternative (competitor) companies which include but are not limited to the following:
-Anthropic
-Mistral AI
-ElevenLabs
-Bria
-Sakana AI
-AI Redefined
-AI21 Labs
-Aleph Alpha
-01.AI
 ## Results
 
 * What has been the business impact of this company so far?
@@ -96,6 +69,9 @@ https://openai.com/blog/planning-for-agi-and-beyond
 ### Introducing OpenAI -
 https://openai.com/blog/introducing-openai
 
+### OpenAI
+https://www.techtarget.com/searchenterpriseai/definition/OpenAI#:~:text=The%20company%20was%20founded%20by,misuse%20of%20general%2Dpurpose%20AI.
+
 ### Companies using OpenAI -
 https://enlyft.com/tech/products/openai
 
@@ -122,3 +98,6 @@ https://www.techopedia.com/top-10-ai-revenue-leaders#:~:text=Microsoft%20is%20pr
 
 ### Introducing Devin
 https://www.cognition-labs.com/introducing-devin
+
+### Exploring Devin AI: A Revolutionary Step in AI-Powered Software Development
+https://www.linkedin.com/pulse/exploring-devin-ai-revolutionary-step-ai-powered-varun-kulkarni-zcmwc/
