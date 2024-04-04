@@ -20,7 +20,8 @@ at the Enterprise level across multiple industries, which can range from the
 Information Technology and Services sector to the Telecommunications sector. [(Enlyft,"Companies using OpenAI")](https://enlyft.com/tech/products/openai). However, FE Digital Currency states in the 2023 **OpenAI 
 surpassed the one billion dollar mark reaching roughly $1.6 billion in revenue.[(FE Digital Currency,"OpenAI clocked $1.6 billion worth revenue in 2023")](https://www.financialexpress.com/business/digital-transformation-openai-clocked-1-6-billion-worth-revenue-in-2023-3355681/). This may be 
 due to the competitive advantage that **OpenAI** offers with its products (ChatGPT 3, 
-DALL-E, and more). According to Vedraj,<**OpenAI** provides a competitive advantage by enabling quicker decision-making through data analysis, rapid content generation, and efficient customer service. This ability allows businesses to respond to market changes and customer demands swiftly.> [(Vedraj,"Leveraging OpenAI In Business: Strategic Benefits And Practical Uses")](https://www.valuecoders.com/blog/ai-ml/openai-in-business-benefits-and-uses/). Which makes the average person wonder, 
+DALL-E, and more). >According to Vedraj,**OpenAI** provides a competitive advantage by enabling quicker decision-making through data analysis, rapid content generation, and efficient customer service. This ability allows businesses to respond to market changes and customer demands swiftly. [(Vedraj,"Leveraging OpenAI In Business: Strategic Benefits And Practical Uses")](https://www.valuecoders.com/blog/ai-ml/openai-in-business-benefits-and-uses/). 
+Which makes the average person wonder, 
 "what kind of technology can make such an advantage possible?" Simply, access to 
 application and data services like Cloudfare, Amazon Web Services, Amazon 
 Cloudfront, and Prism lay the groundwork for such an accomplishment. [(Stackshare,"Openai.com")](https://stackshare.io/openai/openai-com).
@@ -35,6 +36,7 @@ on patters from existing training data.
 videos, text to audio, and so forth.
 * *Democratization* - Meaning to make something available and accessible to everyone. 
 [(Lukan,"8 AI Trends To Look Out For in 2024")](https://www.synthesia.io/post/ai-trends#:~:text=2.-,Multimodal%20AI%20models,way%20for%20more%20comprehensive%20experiences.).
+
 Being seen as a huge success story in the startup world, **OpenAI** is sure to have a 
 few competitors to look out for. Some of which are comprised of the following: 
 * *Anthropic*
